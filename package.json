@@ -22,7 +22,7 @@
     "handlebars": "^4.7.6",
     "inquirer": "^7.3.3",
     "open": "^7.1.0",
-    "ora": "^5.0.0",
+    "ora": "^5.1.0",
     "watch": "^1.0.2"
   },
   "devDependencies": {
